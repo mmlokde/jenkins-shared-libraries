@@ -1,1 +1,3 @@
-echo "hello from Manohar"
+def call () {
+  echo "hello from Manohar"
+}
